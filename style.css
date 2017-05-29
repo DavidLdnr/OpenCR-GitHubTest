@@ -1,0 +1,15 @@
+//début du css pour écran pc et plus
+
+@media screen and (min-width: 750px) {
+
+    body {
+            background: grey;
+            font-size: 1em;
+    }
+
+    h1 {
+            color: yellow;
+            text-decoration: none;
+            text-align: center;
+    }
+}
